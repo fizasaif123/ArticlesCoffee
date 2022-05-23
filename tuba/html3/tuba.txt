@@ -1,0 +1,11 @@
+<html>
+<head>
+<tittle>page 1</tittle>
+</head>
+<body>
+<h1>page no 1</h1>
+<a href="https://www.google.com/search?q=imran+khan&source=hp&ei=QEQvYvnAKsqS9u8P2fmugAs&iflsig=AHkkrS4AAAAAYi9SUB-3ycIZIoGxWGUf9K_fI2Uo9xJY&gs_ssp=eJzj4tTP1TcwMk3OMjFg9OLKzC1KzFPIzkjMAwBKzQbV&oq=imran&gs_lcp=Cgdnd3Mtd2l6EAEYADILCC4QgAQQsQMQgwEyCAguEIAEELEDMggILhCABBCxAzILCAAQgAQQsQMQgwEyCwguEIAEELEDEIMBMggILhCABBCxAzILCAAQgAQQsQMQgwEyCAguEIAEELEDMggIABCABBCxAzIICAAQgAQQsQM6DgguEI8BEOoCEIwDEOUCOg4IABCPARDqAhCMAxDlAjoICAAQsQMQgwE6BQguEIAEOgUIABCABDoLCC4QgAQQsQMQ1AI6DgguEIAEELEDEMcBEKMCOg4ILhCABBCxAxDHARDRAzoFCAAQsQM6CwguEIAEEMcBENEDOgsILhCABBDHARCvAToICC4QsQMQgwFQ7ghY6o4BYOGpAWgIcAB4AIAB1QWIAas0kgEHNC0yLjkuMZgBAKABAbABCg&sclient=gws-wiz.html">click here</a>
+<ahref="imran khan.jpg">click here</a>
+<img src="f19e7cb6acfa9e2778b48f4f15a23aac.jpg> 
+</body>
+</html>

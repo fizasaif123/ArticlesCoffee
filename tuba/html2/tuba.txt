@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Tuba Hameed</title>
+</head>
+<body style ="background-color:pink;">
+<marquee direction=left;>Tuba Hameed</marquee>
+<marquee"style=color:Green;"direction right>Tuba Hameed</marquee>
+<p>I AM DEVELOPER</P>
+<a href="https://www.google.com/search?q=lion+pic&ei=LYoxYs6PMrmP9u8P39mVIA&oq=loin&gs_lcp=Cgdnd3Mtd2l6EAEYBDIKCAAQsQMQgwEQQzIFCAAQgAQyBAgAEEMyCAgAEIAEELEDMgcIABCABBAKMgQIABBDMgcIABCABBAKMgUIABCABDIFCAAQgAQyCgguEIAEENQCEAo6BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6DAguEMgDELADEEMYAjoPCC4Q1AIQyAMQsAMQQxgCSgQIQRgASgQIRhgBULZmWLZmYMOMAWgBcAF4AIABswGIAbMBkgEDMC4xmAEAoAEByAERwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz.html">click here</a>
+<a href="lion.jpg">click here</a>
+<img src=albino_lion_white_eyes_77053_360x640.jpg>
+<img src=5ae62d41dc0c1286f11a2581ba121b46.jpg>
+<H1>T</H1>
+<H2>U</H2>
+<H3>B</H3>
+<H4>A</H4>
+<H5>-H-</H5>
+<H6>S<H6>
+</body>
+</html>
